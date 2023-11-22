@@ -4,7 +4,7 @@ This project utilizes the Open API published by the Government of Malaysia to co
 
 ## Project Screenshots:
 
-![Project Screenshot](https://raw.githubusercontent.com/ongcl03/Date-Birth-Malaysia/main/images/project-screenshot.png?token=GHSAT0AAAAAACKBI7CM2EXKSLYO7AINUPASZK5TSEQ)
+![Project Screenshot](https://raw.githubusercontent.com/ongcl03/Date-Birth-Malaysia/main/images/project-screenshot.png)
 
 ## Credits:
 
