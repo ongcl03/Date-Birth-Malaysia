@@ -1,0 +1,37 @@
+body{
+  font-family: Arial;
+}
+
+.birth-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
+.select-birthday {
+  font-size: 18px;
+}
+
+
+.input-birthday {
+  margin-top: 30px;
+}
+
+.search-button {
+  margin-top: 40px;
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  color: white ;
+  background-color: black;
+  border-radius: 6px;
+}
+
+
+.count-birthday {
+  margin-top: 140px;
+}
+
+
